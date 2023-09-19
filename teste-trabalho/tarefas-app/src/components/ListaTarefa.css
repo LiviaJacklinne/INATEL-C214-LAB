@@ -1,0 +1,37 @@
+.ListaTarefas {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .NovaTarefa {
+    margin: 20px 0;
+  }
+  
+  .NovaTarefa input {
+    margin-right: 10px;
+  }
+  
+  .NovaTarefa button {
+    margin-top: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+  
+button:hover {
+    background-color: #031c3d;
+}
+
+button:hover a {
+    color: #ffff;
+}
+
+
+  
