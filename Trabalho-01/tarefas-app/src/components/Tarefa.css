@@ -1,0 +1,25 @@
+.Tarefa {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+  
+.Tarefa h2 {
+    margin-bottom: 10px;
+}
+  
+.Tarefa button {
+    margin-left: 10px;
+}
+
+.Tarefa.concluida {
+    background-color: #36eb09a4; /* Verde claro para tarefas concluídas */
+    border: 1px solid #031c3d;
+}
+
+button:hover a {
+    color: #fff;
+}
+  
