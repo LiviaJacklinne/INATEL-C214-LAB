@@ -1,0 +1,1 @@
+[![CI Java Build](https://github.com/LiviaJacklinne/INATEL-C214-LAB/blob/main/Aula-08/ProjetoC214_Test_Mock/.github/workflows/ci.yml/badge.svg)](https://github.com/LiviaJacklinne/INATEL-C214-LAB/blob/main/Aula-08/ProjetoC214_Test_Mock/.github/workflows/ci.yml)
