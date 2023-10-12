@@ -1,6 +1,6 @@
-import org.example.professor.BuscaProfessor;
-import org.example.professor.Professor;
-import org.example.professor.ProfessorService;
+import br.inatel.cdg.BuscaProfessor;
+import br.inatel.cdg.Professor;
+import br.inatel.cdg.ProfessorService;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;

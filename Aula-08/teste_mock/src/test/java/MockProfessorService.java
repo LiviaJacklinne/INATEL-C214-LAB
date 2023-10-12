@@ -1,6 +1,6 @@
 import com.google.gson.Gson;
-import org.example.professor.Professor;
-import org.example.professor.ProfessorService;
+import br.inatel.cdg.Professor;
+import br.inatel.cdg.ProfessorService;
 import com.google.gson.Gson;
 import java.util.ArrayList;
 
