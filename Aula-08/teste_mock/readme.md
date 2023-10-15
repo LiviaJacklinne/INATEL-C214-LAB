@@ -1,1 +1,0 @@
-[![Biuld CI](https://github.com/LiviaJacklinne/INATEL-C214-LAB/tree/main/Aula-08/teste_mock/.github/workflows/biuld.yml/badge.svg)](https://github.com/LiviaJacklinne/INATEL-C214-LAB/tree/main/Aula-08/teste_mock/.github/workflows/biuld.yml)
